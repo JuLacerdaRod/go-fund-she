@@ -1,0 +1,1 @@
+web: gunicorn --pythonpath missionpawssible missionpawssible.wsgi --log-file -
